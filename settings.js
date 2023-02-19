@@ -21,10 +21,10 @@ const chalk = require('chalk')
 global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
-// You Bots Owner Number 
-global.owner = ['94767438882'] 
+// You Bots Owner Number
+global.owner = ['94715730508'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -36,7 +36,7 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  ' ⃟ᴄᴜᴛᴇ׀〲⃝𝙾𝚂𝙷𝙰𝙽 𓆩×͜×𓆪ꪾ' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
